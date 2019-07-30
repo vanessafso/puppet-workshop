@@ -2,9 +2,9 @@
   "name": "vanessasouza-workshop",
   "version": "0.1.0",
   "author": "vanessasouza",
-  "summary": "",
+  "summary": "Provisiona uma pagina inicial do Apache",
   "license": "Apache-2.0",
-  "source": "",
+  "source": "https://github.com/vanessafso/workshop",
   "dependencies": [
 
   ],
